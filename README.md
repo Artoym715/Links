@@ -64,5 +64,5 @@ git clone https://github.com/Artoym715/Links.git
 ## Лицензия
 Проект распространяется под лицензией MIT. Подробности в файле LICENSE.
 
-## Демо
-[Посмотреть демо](https://artoym715.github.io/Links/)
+## Сайт
+[Посмотреть рабочий сайт](https://artoym715.github.io/Links/)
